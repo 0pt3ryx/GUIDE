@@ -6,9 +6,13 @@ This repository provides the code and data used in the study titled “GUIDE: GA
 
 
 # See Also
-This dataset includes the "old dataset," which was originally used in the paper below.
+This dataset includes the *old dataset*, which was originally used in the paper below.
 
 - Jeong, Seonghoon, Eunji Park, Kang Uk Seo, Jeong Do Yoo, and Huy Kang Kim. “MUVIDS: False MAVLink Injection Attack Detection in Communication for Unmanned Vehicles.” *In Workshop on Automotive and Autonomous Vehicle Security (AutoSec)* 2021 (2021): 25. https://dx.doi.org/10.14722/autosec.2021.23036.
+
+
+Raw PCAP files used in the study.
+- Google Drive link: https://drive.google.com/file/d/1uk3NdN8ncoGEqQRSB_eg_-KRbyGj6gmk/view?usp=sharing
 
 
 Additional datasets are available on our laboratory homepage.
